@@ -7,3 +7,5 @@
 - Criar o repositório remoto aula-git-code-education
 - Adicionar o repositório remoto.
 - Fazer um push no repositório remoto.
+
+Add um commit para diferenciar a tags. Aqui começa a tag 0.1.1
